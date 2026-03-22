@@ -3,4 +3,4 @@ Este projeto tem como objetivo analisar indicadores educacionais de alunos entre
 
 Link para acessar Ficha de Avaliação e Análise de Risco de Alunos: https://datathon-bcvxve8ppuvc4ncex6grcv.streamlit.app/
 
-- Dica: É possivel pesquisar poir "Aluno-1" ou apenas "Aluno" para começar a usar.
+- Dica: É possivel pesquisar por "Aluno-1" ou apenas "Aluno" para começar a usar.
